@@ -1,0 +1,1 @@
+http://howtodoinjava.com/spring/spring-restful/spring-restful-client-resttemplate-example/
